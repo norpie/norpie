@@ -39,6 +39,12 @@ I'm a software developer and an informatics student. I'm passionate about open-s
 - [**`uLLM-API`**](https://github.com/norpie/uLLM-API): A simple inference API for LLM models.
 - [**`Analytical`**](https://github.com/norpie/analytical): A simple analytics tool for software projects.
 
+## Group Projects
+
+> These projects are developed by a group of people, not just me.
+
+- [**`Finanalize`**](https://github.com/norpie/finanalize): A financial analysis tool for for individuals using LLMs.
+
 ## Upcoming Research Projects
 
 > I haven't started these projects yet, but I'm planning to do so in the near future.
