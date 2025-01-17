@@ -34,11 +34,15 @@ I'm a software developer and an informatics student. I'm passionate about open-s
 - [**`servicer`**](https://github.com/norpie/servicer): A family of crates for building microservices in Rust.
 
 ## Current Projects
+
 - [**`Alice`**](https://github.com/norpie/alice): A user-friendly AI assistant.
 - [**`uLLM-API`**](https://github.com/norpie/uLLM-API): A simple inference API for LLM models.
 - [**`Analytical`**](https://github.com/norpie/analytical): A simple analytics tool for software projects.
 
 ## Upcoming Research Projects
+
+> I haven't started these projects yet, but I'm planning to do so in the near future.
+
 - [**`Mirabel`**](https://github.com/norpie/mirabel): A research project on the use of AI agents in software development.
 - [**`Navcom`**](https://github.com/norpie/navcom): A research project on navigation using OpenStreetMap data.
 - [**`Homestead`**](https://github.com/norpie/homestead): A research project on smart home automation.
