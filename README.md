@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ```rust
 let mut me = Person {
     name: "Konsta Kuosmanen",
-    alias: "norpie",
-    pronouns: "he/him",
+    aliases: vec!["norpie"],
+    pronouns: vec!["he/him"],
     location: "Belgium",
     contact: "konsta@kuosmanen.dev"
 }
