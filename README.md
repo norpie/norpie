@@ -46,7 +46,7 @@ I'm a software developer and an informatics student. I'm passionate about open-s
 
 > These projects are developed by a group of people, not just me.
 
-- [**`Finanalize`**](https://github.com/norpie/finanalize): A financial analysis tool for for individuals using LLMs.
+- [**`Finanalize`**](https://github.com/norpie/finanalize): A financial analysis tool for individuals using LLMs.
 
 ## Upcoming Research Projects
 
