@@ -25,7 +25,9 @@ let mut me = Person {
 }
 ```
 
-I'm a software developer and an informatics student. I'm passionate about open-source software and I love to contribute to projects that I find interesting. I'm currently working on a few projects, check them out below!
+I'm a full-time software developer. I'm passionate about open-source software and I love to contribute to projects that I find interesting. I'm currently working on a few projects, check them out below!
+
+![Profile views](https://counter.kuber.studio/norpie/glassmorphism/count.svg)
 
 ## Rust Crates
 
@@ -59,6 +61,3 @@ I'm a software developer and an informatics student. I'm passionate about open-s
 
 - [**`Alice`**](https://github.com/norpie/alice): A user-friendly AI assistant. (Got bored, basically just a ChatGPT UI, not unique enough)
 
-
-
-![Profile views](https://counter.kuber.studio/norpie/glassmorphism/count.svg)
