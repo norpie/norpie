@@ -58,3 +58,7 @@ I'm a software developer and an informatics student. I'm passionate about open-s
 ## Backburner
 
 - [**`Alice`**](https://github.com/norpie/alice): A user-friendly AI assistant. (Got bored, basically just a ChatGPT UI, not unique enough)
+
+
+
+![Profile views](https://counter.kuber.studio/norpie/glassmorphism/count.svg)
